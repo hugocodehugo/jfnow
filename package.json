@@ -1,0 +1,21 @@
+{
+  "name": "jfnow",
+  "version": "1.0.0",
+  "description": "jfnow",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugocodehugo/jfnow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hugocodehugo/jfnow/issues"
+  },
+  "homepage": "https://github.com/hugocodehugo/jfnow#readme"
+}
